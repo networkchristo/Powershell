@@ -1,0 +1,3 @@
+#Start Notepad with Maximixed
+
+start notepad -WindowStyle maximized 
