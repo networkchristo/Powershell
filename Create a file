@@ -1,0 +1,4 @@
+# Create a file
+
+
+$content = 'Line1' | out-file -filepath C:\temp\test1.txt
